@@ -30,11 +30,11 @@ Prompt Engineer | AI Expert | Data & ML Engineer | CIO в органе госу�
 ## 💻 Технологический стек
 - **Языки программирования, веб-разработки и обработки данных:** Python, SQL, HTML
 - **AI / ML:** LLM, ML, NLP, CV, LangChain, HuggingFace
-- **Инфраструктура и DevOps:** Docker, Linux, Git
+- **Инфраструктура и DevOps:** Docker, Portainer, Linux, Git
 - **Автоматизация, оркестрация и low‑code:** n8n, Make, Zapier, Albato, Wazzup, Airflow
 - **BI и Big Data:** Hadoop, BI‑системы
 - **Базы данных:** PostgreSQL, MySQL
-- **CRM и инструменты:** Bitrix24, amoCRM, Draw.io, MS Office
+- **CRM и инструменты:** Bitrix24, amoCRM, VS Code, Cursor, Draw.io, MS Office
 
 ---
 
